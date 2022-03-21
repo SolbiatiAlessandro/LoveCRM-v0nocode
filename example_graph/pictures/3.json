@@ -1,40 +1,7 @@
 {
   "title": "IMG_0206.HEIC",
-  "description": "",
-  "imageViews": "2",
-  "creationTime": {
-    "timestamp": "1646774690",
-    "formatted": "8 Mar 2022, 21:24:50 UTC"
-  },
-  "photoTakenTime": {
-    "timestamp": "1596389071",
-    "formatted": "2 Aug 2020, 17:24:31 UTC"
-  },
-  "geoData": {
-    "latitude": 51.479299999999995,
-    "longitude": -0.29209999999999997,
-    "altitude": 9.76,
-    "latitudeSpan": 0.0,
-    "longitudeSpan": 0.0
-  },
-  "geoDataExif": {
-    "latitude": 51.479299999999995,
-    "longitude": -0.29209999999999997,
-    "altitude": 9.76,
-    "latitudeSpan": 0.0,
-    "longitudeSpan": 0.0
-  },
   "people": [{
     "name": "Gaal Dornick"
   }],
-  "url": "https://static.wikia.nocookie.net/foundation/images/d/df/MP-Gaal-Dornick.jpg/revision/latest?cb=20210819170405",
-  "googlePhotosOrigin": {
-    "mobileUpload": {
-      "deviceType": "IOS_PHONE"
-    }
-  },
-  "photoLastModifiedTime": {
-    "timestamp": "1646774775",
-    "formatted": "8 Mar 2022, 21:26:15 UTC"
-  }
+  "url": "https://static.wikia.nocookie.net/foundation/images/d/df/MP-Gaal-Dornick.jpg/revision/latest?cb=20210819170405"
 }
