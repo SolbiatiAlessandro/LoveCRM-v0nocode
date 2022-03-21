@@ -5,10 +5,10 @@ mkdir graph/people
 mkdir graph/notes
 mkdir graph/pictures
 # Add yourself as graph owner
-cp example_graph/people/hari_seldon.md graph/people/<your_name>.md
+cp example_graph/people/hari-seldon.md graph/people/<your_name>.md
 
 # Add a person
-cp example_graph/people/salvor_hardin.md graph/people/<person_name>.md
+cp example_graph/people/salvor-hardin.md graph/people/<person_name>.md
 
 # Add a picture by hand
 cp example_graph/pictures/1.json graph/pictures/1.json
