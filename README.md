@@ -18,6 +18,13 @@ cp example_graph/pictures/1.json graph/pictures/1.json
 
 # Add a note
 cp example_graph/notes/foundation.md graph/notes/<note_name>.md
+
+# open graph
+open -a "Google Chrome" .
+
+# timestamp
+echo "\n *$(date)*" >> manav.md"
+
+# get todos
+rg TODO
 ```
-
-
