@@ -26,5 +26,5 @@ open -a "Google Chrome" .
 echo "\n *$(date)*" >> manav.md"
 
 # get todos
-rg TODO
+grep -r "TODO" *graph
 ```
