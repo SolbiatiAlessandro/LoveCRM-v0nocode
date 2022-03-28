@@ -47,6 +47,9 @@ grep -r "TODO" *graph
 # get dates
 grep -r "DATE" *graph
 
+# open picture url (require jq -> brew install jq)
+cat <graph_name>/pictures/<picture_name>.json | jq '.url' | xargs open -a "Google Chrome"
+
 # get all pictures with this person
 TODO
 ```
